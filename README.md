@@ -1,1 +1,1 @@
-its a remote repository under git version control.
+its a remote repository with different branches under git version control.
